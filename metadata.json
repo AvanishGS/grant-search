@@ -1,0 +1,5 @@
+{
+  "name": "EuroGrant NGO Poland",
+  "description": "A specialized AI-powered search engine for identifying EU and Local Polish grant opportunities for NGOs, utilizing Google Search Grounding for real-time data.",
+  "requestFramePermissions": []
+}
